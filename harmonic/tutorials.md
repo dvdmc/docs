@@ -9,6 +9,7 @@ These tutorials cover general concepts to help get you started with Gazebo.
 * [SDF Worlds](sdf_worlds)
 * [Sensors](sensors)
 * [Actors](actors)
+* [Spawn URDF](spawn_urdf)
 
 ## GUI tutorials
 
@@ -17,12 +18,9 @@ These tutorials cover general concepts to help get you started with Gazebo.
 * [Model Insertion from Fuel](fuel_insert)
 * [Keyboard Shortcuts](hotkeys)
 
-## ROS integration
+## ROS 2 integration
 
-* [Spawn URDF](spawn_urdf)
-* [ROS 2 Integration via Bridge](ros2_integration)
-* [ROS 2 Interoperability](ros2_interop)
-* [ROS 2 Integration Template](ros_gz_project_template_guide)
+* [ROS 2 Tutorials](ros2_tutorials)
 
 ## Per-library tutorials
 
